@@ -55,9 +55,11 @@ https://github.com/harshdave05/AI-Driver-Monitoring-System
 
 ## 📊 GitHub Stats
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshdave05\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshdave05&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdave05\&layout=compact\&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdave05&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</p>
 
 ---
 
